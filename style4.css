@@ -1,0 +1,57 @@
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.yellow{
+	width: 150px;
+	height: 100px;
+	background-color:#FFFF66;
+	float: left;
+}
+.gray{
+	width: 200px;
+	height: 100px;
+	background-color:#666666;
+	float: left;
+}
+.red{
+	width: 150px;
+	height: 150px;
+	background-color:#FF3333;
+	float: left;
+}
+.blue{
+	width: 100px;
+	height: 150px;
+	background-color:#3366FF;
+    float: left;
+}
+.green{
+	width: 100px;
+	height: 150px;
+	background-color:#669933;
+	float: left;
+}
+.orange{
+	width: 150px;
+	height: 100px;
+	background-color:#FF9966;
+	float: left;
+}
+.cream{
+	width: 100px;
+	height: 100px;
+	background-color:#FFFFCC;
+	float: left;
+}
+.purple{
+	width: 100px;
+	height: 100px;
+	background-color:#330066;
+	float: left;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
